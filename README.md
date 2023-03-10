@@ -1,5 +1,7 @@
-#Console Game: Two-Player Obstacle Course
+#####Console Game: Two-Player Obstacle Course
+
 ##Overview
+
 This project was developed as a degree project for the course Programming Principles 2021 at UdelaR, Uruguay.
 
 This game is a two-player obstacle course that is deployed on the console. The game board is a 10x10 grid with random obstacles scattered throughout. The objective of the game is to be the first player to reach the end of the course without colliding with any obstacles.
