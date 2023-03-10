@@ -1,4 +1,4 @@
-#####Console Game: Two-Player Obstacle Course
+Console Game: Two-Player Obstacle Course
 
 ##Overview
 
