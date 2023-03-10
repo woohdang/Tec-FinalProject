@@ -1,4 +1,4 @@
-# Tec-FinalProject
+# ARCHERY GAME Tec-FinalProject2021
 
 We created the Archery Game for the Principles of Programming course / 2021 
 
